@@ -3,7 +3,7 @@ widget: pages
 widget_id: Blogs
 headless: true
 weight: 60
-title: Personal Blogs
+title: Blog Posts
 subtitle: null
 content:
   filters:

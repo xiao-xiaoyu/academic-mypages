@@ -13,23 +13,23 @@ main:
     parent: home
     url: '#about'
     weight: 10
-  - name: Skills
-    parent: home
-    url: '#skills'
-    weight: 20
   - name: Experience
     parent: home
     url: '#experience'
-    weight: 30
+    weight: 20
   - name: Accomplishments
     parent: home
     url: '#accomplishments'
-    weight: 40   
+    weight: 30   
+  - name: Skills
+    parent: home
+    url: '#skills'
+    weight: 40
     ##### it's over
 
   - name: Posts
     url: '#posts'
-    weight: 20
+    weight: 30
 #  - name: Projects
 #    url: '#projects'
 #    weight: 30
@@ -38,10 +38,10 @@ main:
 #    weight: 40
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 20
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

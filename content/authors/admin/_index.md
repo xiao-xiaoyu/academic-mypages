@@ -12,7 +12,7 @@ social:
     link: /#contact
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F5A8wJlJCGoYbAM4d6XdR_it6I923x6dTM95AWgwMuX8c74BozfTtxHdkGqAslVudzpc4ozjMA8JF5a2lLLlDrn2n6fvkKAC3AIiNXKLSUu-lLdvAY&user=mMPLH_kAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/xiao-xiaoyu
