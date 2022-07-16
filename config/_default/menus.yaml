@@ -7,10 +7,9 @@ main:
   - name: Home
     identifier: home
     url: '#about'
-    weight: 10
-    
+    weight: 10 
     #follows are submenu of home
-    - name: Biography
+  - name: Biography
     parent: home
     url: '#about'
     weight: 10
