@@ -5,17 +5,38 @@
 
 main:
   - name: Home
+    identifier: home
     url: '#about'
     weight: 10
+    
+    #follows are submenu of home
+    - name: Biography
+    parent: home
+    url: '#about'
+    weight: 10
+  - name: Skills
+    parent: home
+    url: '#skills'
+    weight: 20
+  - name: Experience
+    parent: home
+    url: '#experience'
+    weight: 30
+  - name: Accomplishments
+    parent: home
+    url: '#accomplishments'
+    weight: 40   
+    ##### it's over
+
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+#  - name: Projects
+#    url: '#projects'
+#    weight: 30
+#  - name: Talks
+#    url: '#talks'
+#    weight: 40
   - name: Publications
     url: '#featured'
     weight: 50
