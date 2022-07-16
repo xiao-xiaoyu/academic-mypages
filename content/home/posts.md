@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Blogs
 headless: true
-weight: 60
+weight: 90
 title: Blog Posts
 subtitle: null
 content:
