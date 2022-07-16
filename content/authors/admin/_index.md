@@ -35,6 +35,6 @@ superuser: true
 highlight_name: true
 ---
 
-I'am now a student of the Program of Mathematics and Applied Mathematics at Zhejiang University, minoring in ​Intensive Training Program of the Chu Kochen Honors College. My research interests include AI for science like physical simulation, deep learning for large-scale graph and Explainable AI. I'm highly-motivated to pursue a PhD in Computer Science at Golden States since Golden State Warriors (an American professional basketball team) are based in San Francisco.
+I'am now a senior student of the Program of Mathematics and Applied Mathematics at Zhejiang University, minoring in ​Intensive Training Program of the Chu Kochen Honors College. My research interests include AI for science like physical simulation, deep learning for large-scale graph and Explainable AI. I'm highly-motivated to pursue a PhD in Computer Science at Golden States since Golden State Warriors (an American professional basketball team) are based in San Francisco.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
