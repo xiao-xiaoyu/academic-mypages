@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 60%
-    icon: computer-classic
-    icon_pack: fas
-    name: R
+#  - description: 60%
+#    icon: display-code
+#    icon_pack: fas
+#    name: Programing
   - description: 100%
     icon: guitar
     icon_pack: fas
     name: Instrument
-  - description: 20%
+  - description: 30%
     icon: camera-retro
     icon_pack: fas
     name: Photography
