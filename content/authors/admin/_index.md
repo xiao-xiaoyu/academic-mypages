@@ -1,6 +1,7 @@
 ---
 title: Jiajun Zhu
 role: Student of School of Mathematical Sciences
+avatar_filename: 微信图片_20220731121723.jpg
 bio: My personal blogs are here.
 interests:
   - AI for Science
